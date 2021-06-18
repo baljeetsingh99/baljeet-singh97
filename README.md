@@ -6,6 +6,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/baljeet-singh97/count.svg" />
 </p>
+
 ##
 <h2 align='center'><samp><strong>Hi there 👋, I am Baljeet Singh</strong></samp></h2>
 <h3 align='center'><strong><a href="https://github.com/baljeet-singh97/Resume/blob/main/Baljeet%20CV.pdf" target="_blank">Resume🌐</a></strong></h3>
