@@ -32,6 +32,6 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 - 🔭 I’m currently working on PhoneBook
 - 👯 I’m looking to collaborate on Projects
 - 💬 Ask me about Programming and me
-- 📫 How to reach me: Drop msg on [LinkedIn]
+- 📫 How to reach me: Drop msg on [LinkedIn](https://www.linkedin.com/in/baljeet-singh97/)
 - 😄 Species: Human, Animals, Programmer
 - ⚡ Fun fact: Run it again even if u didnt change anything.
