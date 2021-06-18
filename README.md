@@ -23,9 +23,9 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 
 ## Get in touch :coffee:
 
+- [LinkedIn](https://www.linkedin.com/in/baljeet-singh97/)
 - [Twitter](https://twitter.com/bljt_kuntal).
 - [Medium](https://medium.com/@baljeet-singh97).
-- [LinkedIn](https://www.linkedin.com/in/baljeet-singh97/)
 - And of course GitHub you're already on (Recursion).
 
 ## ME
