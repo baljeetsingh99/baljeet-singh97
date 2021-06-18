@@ -9,9 +9,9 @@
 
 ## About me
 
-I'm Baljeet Singh. Persuing B.tech CSE From Lovely Professional University A Software Developer. Fresher looking for job opportunities. Passionate about programming, have a look on my profile.
+I'm Baljeet Singh. Persuing B.tech CSE From Lovely Professional University.  A Developer and Programmer. Fresher looking for job opportunities. Passionate about programming, have a look on my profile.
 
-I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
+I ocassionally blog about programming and cyber security. Also interested in Cyber security.
 
 
 ## Things I am passionate about
