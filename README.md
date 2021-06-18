@@ -15,7 +15,7 @@ I'm Baljeet Singh. Persuing B.tech CSE From Lovely Professional University.  A D
 
 I ocassionally blog about programming and cyber security. Also interested in Cyber security.
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={baljeet-singh97}&theme=blue-green
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baljeet-singh97)](https://github.com/anuraghazra/github-readme-stats)
 ## Languages && Tools:
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
@@ -27,8 +27,8 @@ https://github-readme-stats.vercel.app/api/top-langs/?username={baljeet-singh97}
 
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![he](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
