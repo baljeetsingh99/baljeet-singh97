@@ -9,6 +9,10 @@
 
 ## About me
 
+<h2 align='center'><samp><strong>Hi there 👋, I am Baljeet Singh</strong></samp></h2>
+<h3 align='center'><strong><a href="https://github.com/baljeet-singh97/Resume/blob/main/Baljeet%20CV.pdf" target="_blank">Resume🌐</a></strong></h3>
+<p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
+
 I'm Baljeet Singh. Persuing B.tech CSE From Lovely Professional University.  A Developer and Programmer. Fresher looking for job opportunities. Passionate about programming, have a look on my profile.
 
 I ocassionally blog about programming and cyber security. Also interested in Cyber security.
