@@ -6,7 +6,6 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/baljeet-singh97/count.svg" />
 </p>
-
 ##
 <h2 align='center'><samp><strong>Hi there 👋, I am Baljeet Singh</strong></samp></h2>
 <h3 align='center'><strong><a href="https://github.com/baljeet-singh97/Resume/blob/main/Baljeet%20CV.pdf" target="_blank">Resume🌐</a></strong></h3>
@@ -15,11 +14,7 @@ I'm Baljeet Singh. Persuing B.tech CSE From Lovely Professional University.  A D
 
 I ocassionally blog about programming and cyber security. Also interested in Cyber security.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baljeet-singh97&layout=compact)
-
-
 ### 🔨 Languages and Tools:
-
 <code><img height="30" src="https://github.com/baljeet-singh97/baljeet-singh97/blob/main/resources/c-logo-vector.svg"></code>
 <a href="https://github.com/alwinw?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
@@ -36,6 +31,8 @@ I ocassionally blog about programming and cyber security. Also interested in Cyb
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 <br>
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baljeet-singh97&layout=compact)
 
 ## Things I am passionate about
 - Programming:
