@@ -28,17 +28,10 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 - [LinkedIn](https://www.linkedin.com/in/baljeet-singh97/)
 - And of course GitHub you're already on (Recursion).
 
-
-<!--
-**sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+## ME
+- 🔭 I’m currently working on PhoneBook
 - 👯 I’m looking to collaborate on Projects
 - 💬 Ask me about Programming and me
 - 📫 How to reach me: Drop msg on [LinkedIn]
 - 😄 Species: Human, Animals, Programmer
 - ⚡ Fun fact: Run it again even if u didnt change anything.
--->
