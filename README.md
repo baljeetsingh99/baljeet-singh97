@@ -20,7 +20,9 @@ I ocassionally blog about programming and cyber security. Also interested in Cyb
 
 ### 🔨 Languages and Tools:
 
- <a href="https://github.com/baljeet-singh97/baljeet-singh97/blob/main/resources/c-logo-vector.svg" target="_blank"><img alt="python" src="https://github.com/baljeet-singh97/baljeet-singh97/blob/main/resources/c-logo-vector.svg"></a>
+
+ 
+ <code><img height="30" src="https://github.com/baljeet-singh97/baljeet-singh97/blob/main/resources/c-logo-vector.svg"></code>
  
  <a href="https://github.com/alwinw?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
     <a href="https://github.com/alwinw?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
