@@ -15,10 +15,7 @@ I'm Baljeet Singh. Persuing B.tech CSE From Lovely Professional University.  A D
 
 I ocassionally blog about programming and cyber security. Also interested in Cyber security.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baljeet-singh97&layout=compact)]
-
-
-[![Top Langs]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baljeet-singh97&layout=compact)
 
 
 ## Languages && Tools:
