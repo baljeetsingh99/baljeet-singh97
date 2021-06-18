@@ -7,26 +7,38 @@
   <img src="https://profile-counter.glitch.me/baljeet-singh97/count.svg" />
 </p>
 
-## About me
-
+##
 <h2 align='center'><samp><strong>Hi there 👋, I am Baljeet Singh</strong></samp></h2>
 <h3 align='center'><strong><a href="https://github.com/baljeet-singh97/Resume/blob/main/Baljeet%20CV.pdf" target="_blank">Resume🌐</a></strong></h3>
-<p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
 
 I'm Baljeet Singh. Persuing B.tech CSE From Lovely Professional University.  A Developer and Programmer. Fresher looking for job opportunities. Passionate about programming, have a look on my profile.
 
 I ocassionally blog about programming and cyber security. Also interested in Cyber security.
 
+https://github-readme-stats.vercel.app/api/top-langs/?username={baljeet-singh97}&theme=blue-green
+## Languages && Tools:
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![googlecloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
+
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 ## Things I am passionate about
-
 - Programming:
 - C++:
 - Projects:
 - trying out new things:
 
-## Get in touch :coffee:
-
+## Get in touch :
 - [LinkedIn](https://www.linkedin.com/in/baljeet-singh97/)
 - [Twitter](https://twitter.com/bljt_kuntal).
 - [Medium](https://medium.com/@baljeet-singh97).
