@@ -1,7 +1,7 @@
 
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/baljeet-singh97?label=Follow%20Me&style=social)](https://github.com/baljeet-singh97)
-<img src="https://github.com/baljeet-singh97/baljeet-singh97/blob/main/resources/1102001.jpg" alt="Hello world">
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Github](https://img.shields.io/github/followers/baljeet-singh97?label=Follow%20Me&style=social)](https://github.com/baljeet-singh97)
 
+<img src="https://github.com/baljeet-singh97/baljeet-singh97/blob/main/resources/1102001.jpg" alt="Hello world">
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/baljeet-singh97/count.svg" />
@@ -34,12 +34,8 @@ I ocassionally blog about programming and cyber security. Also interested in Cyb
 <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
-
-
 <br>
-
 </a>
-
 
 ## Things I am passionate about
 - Programming:
