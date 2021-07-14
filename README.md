@@ -40,8 +40,8 @@ I ocassionally blog about programming and cyber security. Also interested in Cyb
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baljeet-singh97&layout=compact)
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rammya29&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rammya29&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=baljeet-singh97&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=baljeet-singh97&theme=tokyonight" />
 </p>
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
