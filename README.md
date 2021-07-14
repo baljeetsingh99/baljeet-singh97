@@ -38,9 +38,9 @@ I ocassionally blog about programming and cyber security. Also interested in Cyb
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 <br>
 </a>
- <p align="center"> 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baljeet-singh97&layout=compact)
-</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baljeet-singh97)](https://github.com/baljeet-singh97/github-readme-stats)
+
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=baljeet-singh97&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=baljeet-singh97&theme=tokyonight" />
