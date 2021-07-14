@@ -2,7 +2,6 @@
 ## Baljeet Singh
 
 <h2>HEY, GLAD TO SEE YOU HERE! WELCOME TO MY GITHUB PROFILE👇<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2><br>
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ![Github](https://img.shields.io/github/followers/baljeet-singh97?label=Follow%20Me&style=social)
 
