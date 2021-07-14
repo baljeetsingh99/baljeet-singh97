@@ -39,7 +39,7 @@ I ocassionally blog about programming and cyber security. Also interested in Cyb
 <br>
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baljeet-singh97)](https://github.com/baljeet-singh97/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baljeet-singh97&layout=compact)](https://github.com/baljeet-singh97/github-readme-stats)
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=baljeet-singh97&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
