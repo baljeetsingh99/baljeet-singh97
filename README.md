@@ -2,7 +2,8 @@
 ## Baljeet Singh
 
 <h2>HEY, GLAD TO SEE YOU HERE! WELCOME TO MY GITHUB PROFILE👇<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2><br>
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ![Github](https://img.shields.io/github/followers/baljeet-singh97?label=Follow%20Me&style=social)
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+![Github](https://img.shields.io/github/followers/baljeet-singh97?label=Follow%20Me&style=social)
 
 <img src="https://github.com/baljeet-singh97/baljeet-singh97/blob/main/resources/1102001.jpg" alt="Hello world">
 <p align="center"> 
@@ -36,9 +37,9 @@ I ocassionally blog about programming and cyber security. Also interested in Cyb
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 <br>
 </a>
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baljeet-singh97&layout=compact)
-
+ <p align="center"> 
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baljeet-singh97&layout=compact)
+</p>
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=baljeet-singh97&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=baljeet-singh97&theme=tokyonight" />
