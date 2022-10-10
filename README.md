@@ -61,4 +61,4 @@ I ocassionally blog about programming and cyber security. Also interested in Cyb
 - And of course GitHub you're already on (Recursion).
 
 ## ME
-- Connect With Me : [Instagram](https://www.instagram.com/in//bljt_kuntal/)
+- Connect With Me : [Instagram](https://www.instagram.com/baljeet_kuntal/)
